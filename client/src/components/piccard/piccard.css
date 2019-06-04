@@ -1,0 +1,12 @@
+.card {
+    height: 300px;
+    width: 150px;
+    margin: 10px 10px;
+    box-shadow: 0 3px 6px #999, 0 3px 6px #999;
+    border: 3px solid white;
+    
+  }
+  
+  .img-responsive {
+    vertical-align: middle;
+}
